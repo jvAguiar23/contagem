@@ -1,0 +1,16 @@
+echo "# contagem" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jvAguiar23/contagem.git
+git push -u origin main
+git status
+git add
+git status
+git add
+git add .
+git status
+git add .
+git status
+doskey /h >comandos.txt
